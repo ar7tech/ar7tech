@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ar7tech
 - 👀 I’m interested in every piece of technology that helps us grown!
-- 🌱 I’m currently learning SQL, PHP, Angular, Python and everything that helps me reach my goals.
+- 🌱 I’m currently learning SQL, PHP, Java, Python and everything that helps me reach my goals.
 - 💞️ I’m looking to collaborate on whatever is needed.
 - 📫 How to reach me https://www.linkedin.com/in/ribeiroalberto/
 
